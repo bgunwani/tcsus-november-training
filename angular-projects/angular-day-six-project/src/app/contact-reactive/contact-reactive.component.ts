@@ -20,7 +20,6 @@ export class ContactReactiveComponent implements OnInit {
   });
 
   constructor(private _formBuilder: FormBuilder) {
-
   }
 
   ngOnInit(): void {
